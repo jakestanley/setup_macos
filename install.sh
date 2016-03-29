@@ -23,7 +23,7 @@ brew cask install dropbox
 brew cask install 1password
 brew cask install firefox
 brew cask install sourcetree
-brew cask install steam
+# brew cask install steam
 brew cask install sunvox
 brew cask install alfred
 brew cask install vlc

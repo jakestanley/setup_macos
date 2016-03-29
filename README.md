@@ -5,6 +5,7 @@ This repository contains scripts for setting up my OS X environment using mainly
 
 ## Manual installation
 - Parallels Desktop 10 - manual installation required as I'm only licensed for version 10
+- Steam as the `brew cask` version doesn't work
 
 ### Packages via Homebrew
 `install.sh` installs a bunch of stuff using Brew.
