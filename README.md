@@ -8,8 +8,10 @@ This repository contains scripts for setting up my OS X environment using mainly
 - Steam as the `brew cask` version doesn't work
 
 ### Packages via Homebrew
-`install.sh` installs a bunch of stuff using Brew.
-// TODO
+- `install-brew.sh` installs brew
+- `install.sh` installs packages using brew
+- `install-experimental.sh` install software I'm trying out
+
 ## Further configuration
 
 ### Synchronise BitTorrent Sync folders
